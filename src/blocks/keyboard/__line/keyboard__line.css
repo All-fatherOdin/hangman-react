@@ -1,0 +1,9 @@
+.keyboard__line {
+   display: flex;
+   justify-content: center;
+   margin-bottom: 10px;
+}
+
+.keyboard__line:last-child {
+   margin: 0;
+}

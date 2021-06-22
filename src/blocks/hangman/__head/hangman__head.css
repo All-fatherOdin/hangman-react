@@ -1,0 +1,12 @@
+.hangman__head {
+   position: absolute;
+   left: 50%;
+   top: 30px;
+   transform: translate(-50%);
+   border-radius: 50%;
+   border: 5px solid #fff;
+   width: 30px;
+   height: 30px;
+   background-color: #01012b;
+   z-index: 1;
+}

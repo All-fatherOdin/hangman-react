@@ -1,0 +1,9 @@
+.encryption-word {
+   margin: 50px 0px 30px;
+}
+
+@media screen and (max-width: 337px){
+   .encryption-word {
+      margin: 50px 0px 30px;
+   }
+}

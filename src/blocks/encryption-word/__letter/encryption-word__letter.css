@@ -1,0 +1,18 @@
+.encryption-word__letter {
+   min-width: 40px;
+   pointer-events: none;
+   text-align: center;
+   color: #fff;
+   font-size: 50px;
+   margin: 0;
+   background-color: #05d9e8;
+   line-height: 1.2;
+   transform: translateY(-3px);
+}
+
+@media screen and (max-width: 696px){
+   .eencryption-word__letter {
+      font-size: 39px;
+      min-width: 35px;
+   }
+}

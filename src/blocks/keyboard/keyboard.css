@@ -1,0 +1,5 @@
+.keyboard {
+   margin: 15px auto;
+   transition: opacity 1s linear;
+   opacity: 1;
+}

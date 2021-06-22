@@ -1,0 +1,12 @@
+.popup__title {
+   color: #ff2a6d;
+   font-size: 100px;
+   text-shadow: 5px 0px 0px #05d9e8;
+   text-align: center;
+}
+
+@media screen and (max-width: 440px){
+   .popup__title {
+      font-size: 70px;
+   }
+}

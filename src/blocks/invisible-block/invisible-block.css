@@ -1,0 +1,5 @@
+.invisible-block {
+   visibility: none;
+   pointer-events: none;
+   opacity: 0;
+}

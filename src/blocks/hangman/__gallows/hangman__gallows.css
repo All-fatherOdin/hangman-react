@@ -1,0 +1,4 @@
+.hangman__gallows {
+   width: calc(50% + 2.5px);
+   border-top: 10px solid #fff;
+}

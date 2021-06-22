@@ -1,0 +1,9 @@
+.keyboard__button_color-pink {
+   color: #ff2a6d;
+}
+
+.keyboard__button_color-pink:hover {
+   box-shadow: none;
+   text-shadow: none;
+   color: #ff2a6d;
+}

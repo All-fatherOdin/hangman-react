@@ -1,0 +1,6 @@
+.encryption-word__cover {
+   min-width: 100%;
+   height: 60px;
+   background-color: #01012b;
+   transition: 1s linear;
+}

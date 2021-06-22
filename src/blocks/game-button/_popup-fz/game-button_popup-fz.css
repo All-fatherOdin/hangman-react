@@ -1,0 +1,11 @@
+@media screen and (max-width: 880px){
+   .game-button_popup-fz {
+      font-size: 40px;
+   }
+}
+
+@media screen and (max-width: 715px){
+   .game-button_popup-fz {
+      font-size: 30px;
+   }
+}

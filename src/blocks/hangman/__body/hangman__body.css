@@ -1,0 +1,8 @@
+.hangman__body {
+   position: absolute;
+   left: 50%;
+   top: 60px;
+   transform: translate(-50%);
+   height: 90px;
+   border-left: 5px solid #fff;
+}
