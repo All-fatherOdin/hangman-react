@@ -31,6 +31,7 @@
 @import url(./blocks/encryption-word/__letter-container/encryption-word__letter-container.css);
 @import url(./blocks/encryption-word/__cover/encryption-word__cover.css);
 @import url(./blocks/encryption-word/__letter/encryption-word__letter.css);
+@import url(./blocks/encryption-word/__space/encryption-word__space.css);
 
 @import url(./blocks/keyboard/keyboard.css);
 @import url(./blocks/keyboard/__line/keyboard__line.css);

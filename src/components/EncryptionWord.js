@@ -1,11 +1,11 @@
 function EncryptionWord({ renderWord }) {
-   return(
+   return (
       <section className="encryption-word">
-            <ul className="encryption-word__container">
-               {renderWord()}
-            </ul>
-         </section>
-   )
-}
+         <ul className="encryption-word__container">
+            {renderWord()}
+         </ul>
+      </section>
+   );
+};
 
 export default EncryptionWord;
