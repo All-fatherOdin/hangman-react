@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hangman-react/static/css/main.71d08640.chunk.css",
+    "main.js": "/hangman-react/static/js/main.2b486dbe.chunk.js",
+    "main.js.map": "/hangman-react/static/js/main.2b486dbe.chunk.js.map",
+    "runtime-main.js": "/hangman-react/static/js/runtime-main.2a8abf49.js",
+    "runtime-main.js.map": "/hangman-react/static/js/runtime-main.2a8abf49.js.map",
+    "static/js/2.656f35dd.chunk.js": "/hangman-react/static/js/2.656f35dd.chunk.js",
+    "static/js/2.656f35dd.chunk.js.map": "/hangman-react/static/js/2.656f35dd.chunk.js.map",
+    "static/js/3.fa846b35.chunk.js": "/hangman-react/static/js/3.fa846b35.chunk.js",
+    "static/js/3.fa846b35.chunk.js.map": "/hangman-react/static/js/3.fa846b35.chunk.js.map",
+    "static/js/4.4255855e.chunk.js": "/hangman-react/static/js/4.4255855e.chunk.js",
+    "static/js/4.4255855e.chunk.js.map": "/hangman-react/static/js/4.4255855e.chunk.js.map",
+    "index.html": "/hangman-react/index.html",
+    "static/css/main.71d08640.chunk.css.map": "/hangman-react/static/css/main.71d08640.chunk.css.map",
+    "static/js/2.656f35dd.chunk.js.LICENSE.txt": "/hangman-react/static/js/2.656f35dd.chunk.js.LICENSE.txt",
+    "static/js/3.fa846b35.chunk.js.LICENSE.txt": "/hangman-react/static/js/3.fa846b35.chunk.js.LICENSE.txt",
+    "static/media/lose.fbcf06de.mp3": "/hangman-react/static/media/lose.fbcf06de.mp3",
+    "static/media/open-cover.b39044a0.mp3": "/hangman-react/static/media/open-cover.b39044a0.mp3",
+    "static/media/start-game-button.0bd8a468.mp3": "/hangman-react/static/media/start-game-button.0bd8a468.mp3",
+    "static/media/victory.7202315e.mp3": "/hangman-react/static/media/victory.7202315e.mp3",
+    "static/media/wrong-click.fe297604.mp3": "/hangman-react/static/media/wrong-click.fe297604.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a8abf49.js",
+    "static/js/2.656f35dd.chunk.js",
+    "static/css/main.71d08640.chunk.css",
+    "static/js/main.2b486dbe.chunk.js"
+  ]
+}
