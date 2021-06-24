@@ -1,22 +1,26 @@
 {
   "files": {
     "main.css": "/hangman-react/static/css/main.71d08640.chunk.css",
-    "main.js": "/hangman-react/static/js/main.2bf60a83.chunk.js",
-    "main.js.map": "/hangman-react/static/js/main.2bf60a83.chunk.js.map",
-    "runtime-main.js": "/hangman-react/static/js/runtime-main.121651eb.js",
-    "runtime-main.js.map": "/hangman-react/static/js/runtime-main.121651eb.js.map",
-    "static/js/2.eb1476ad.chunk.js": "/hangman-react/static/js/2.eb1476ad.chunk.js",
-    "static/js/2.eb1476ad.chunk.js.map": "/hangman-react/static/js/2.eb1476ad.chunk.js.map",
-    "static/js/3.3e9a455d.chunk.js": "/hangman-react/static/js/3.3e9a455d.chunk.js",
-    "static/js/3.3e9a455d.chunk.js.map": "/hangman-react/static/js/3.3e9a455d.chunk.js.map",
+    "main.js": "/hangman-react/static/js/main.e661c7bb.chunk.js",
+    "main.js.map": "/hangman-react/static/js/main.e661c7bb.chunk.js.map",
+    "runtime-main.js": "/hangman-react/static/js/runtime-main.2a8abf49.js",
+    "runtime-main.js.map": "/hangman-react/static/js/runtime-main.2a8abf49.js.map",
+    "static/js/2.c0ea6746.chunk.js": "/hangman-react/static/js/2.c0ea6746.chunk.js",
+    "static/js/2.c0ea6746.chunk.js.map": "/hangman-react/static/js/2.c0ea6746.chunk.js.map",
+    "static/js/3.fa846b35.chunk.js": "/hangman-react/static/js/3.fa846b35.chunk.js",
+    "static/js/3.fa846b35.chunk.js.map": "/hangman-react/static/js/3.fa846b35.chunk.js.map",
+    "static/js/4.4255855e.chunk.js": "/hangman-react/static/js/4.4255855e.chunk.js",
+    "static/js/4.4255855e.chunk.js.map": "/hangman-react/static/js/4.4255855e.chunk.js.map",
     "index.html": "/hangman-react/index.html",
     "static/css/main.71d08640.chunk.css.map": "/hangman-react/static/css/main.71d08640.chunk.css.map",
-    "static/js/2.eb1476ad.chunk.js.LICENSE.txt": "/hangman-react/static/js/2.eb1476ad.chunk.js.LICENSE.txt"
+    "static/js/2.c0ea6746.chunk.js.LICENSE.txt": "/hangman-react/static/js/2.c0ea6746.chunk.js.LICENSE.txt",
+    "static/js/3.fa846b35.chunk.js.LICENSE.txt": "/hangman-react/static/js/3.fa846b35.chunk.js.LICENSE.txt",
+    "static/media/menu-music.86a4b3d9.mp3": "/hangman-react/static/media/menu-music.86a4b3d9.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.121651eb.js",
-    "static/js/2.eb1476ad.chunk.js",
+    "static/js/runtime-main.2a8abf49.js",
+    "static/js/2.c0ea6746.chunk.js",
     "static/css/main.71d08640.chunk.css",
-    "static/js/main.2bf60a83.chunk.js"
+    "static/js/main.e661c7bb.chunk.js"
   ]
 }
