@@ -1,0 +1,18 @@
+@font-face {
+   font-family: 'Orbitron', sans-serif;
+   src: url(./Orbitron-Regular.ttf) format('ttf');
+   font-weight: 400;
+   font-style: normal;
+ };
+ @font-face {
+  font-family: 'Orbitron', sans-serif;
+  src: url(./Orbitron-Bold.ttf) format('ttf');
+  font-weight: 700;
+  font-style: normal;
+};
+@font-face {
+  font-family: 'Orbitron', sans-serif;
+  src: url(./Orbitron-Black.ttf) format('ttf');
+  font-weight: 900;
+  font-style: normal;
+}

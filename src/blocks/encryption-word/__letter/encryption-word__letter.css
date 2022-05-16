@@ -1,4 +1,6 @@
 .encryption-word__letter {
+   font-family: 'Orbitron','Segoe UI', sans-serif, Arial, Helvetica, sans-serif;
+   font-weight: 400;
    min-width: 40px;
    pointer-events: none;
    text-align: center;
