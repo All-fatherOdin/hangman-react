@@ -1,6 +1,6 @@
 function Header() {
    return (
-      <header className="header">
+      <header className="header" id="#beamer">
          <h1 className="header__title">Hangman</h1>
       </header>
    );

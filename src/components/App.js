@@ -14,6 +14,7 @@ function App() {
   const [playStartGameSound] = useSound(startGameSound, { volume: 0.25 });
   const regStr = /[a-zA-z]+/g;
   const regexp = new RegExp(regStr);
+  const defaultWords = ['Облачный атлас', 'Рога', 'Железный человек', 'Офисное пространство', 'Рейд', 'Гарри Поттер', 'Сайлент Хилл', 'Реальная любовь', 'Маска', 'Зодиак']
 
   function toStartGame() {
     history.push('/main/start-game');
@@ -22,7 +23,9 @@ function App() {
   };
 
   function checkNewWord(word) {
-    if (word.length > 25 || word.length < 4 || word.match(regexp)) {
+    if(!word){
+      setWord(defaultWords[Math.floor(Math.random() * 10)]);
+    } else if (word.length > 25 || word.length < 4 || word.match(regexp)) {
       setRender(!render);
       console.log(`Не прошло ${word}`);
     } else {
@@ -42,7 +45,7 @@ function App() {
     })
     .then(() => {
       checkNewWord(word, regexp)
-    })
+    }).catch(() => checkNewWord())
   }
   
   useEffect(() => {

@@ -23,7 +23,7 @@ class Api {
             'Content-Type': 'application/json',
          },
       })
-      .then(this._checkResponse);
+      .then(this._checkResponse).catch(()=> ['asd','asd']);
    }
 }
 
